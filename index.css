@@ -5,3 +5,7 @@ table, td{
 td{
     text-align: center;
 }
+
+td, th{
+    padding: 5px;
+}
